@@ -1,0 +1,59 @@
+// ...existing code...
+# Node
+node_modules/
+
+# Environment
+.env
+.env.* 
+!.env.example
+
+# Build / output
+/dist
+/build
+/client/build
+/server/build
+
+# Uploads / user files
+/uploads
+/uploads/*
+!/uploads/.gitkeep
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Coverage
+coverage/
+
+# Database / runtime files
+*.sqlite
+*.db
+*.pid
+*.seed
+
+# Certificates / keys
+*.pem
+*.key
+
+# IDEs / editors
+.vscode/
+.idea/
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Misc
+*.tgz
+*.log.*
+*.tsbuildinfo
+
+# Optional: keep example env tracked
+!.env.example
+// ...existing code...

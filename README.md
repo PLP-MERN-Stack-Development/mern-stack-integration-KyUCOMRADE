@@ -132,16 +132,9 @@ mern-blog/
 │   ├── .env
 │   └── server.js
 ├── README.md
-└── package.json
 ```
 
----
 
-## Screenshots
-
-*(Add screenshots of your frontend here for visual appeal)*  
-
----
 
 ## Contributing
 
@@ -165,7 +158,6 @@ This project is open-source and available under the **MIT License**.
 
 **Joseph Chege**  
 - GitHub: [KyUCOMRADE](https://github.com/KyUCOMRADE)  
-- LinkedIn: [Your LinkedIn](#)  
 
 ---
 
